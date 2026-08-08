@@ -1,6 +1,6 @@
 ### Hi, I'm Yan
 
-Business Analytics professional with 2 years of experience, focused on applying statistics and machine learning to real-world problems, from computer vision to regression and forecasting. Bentley University, Class of 2026 (Business Analytics).
+Business Analytics professional with 2 years of experience, focused on applying statistics and machine learning to real-world problems, from computer vision to regression and forecasting.
 
 What I work with: Python, R, SQL, TensorFlow/Keras, scikit-learn, pandas
 
@@ -9,4 +9,4 @@ A few projects:
 - [Bank Marketing Classification](https://github.com/yanzhuang0829/bank-marketing-classification)
 - [Time Series Traffic Forecasting](https://github.com/yanzhuang0829/time-series-traffic-forecasting)
 
-Reach me at yanzhuang900829@gmail.com
+Reach me at yzhuang@falcon.bentley.edu
