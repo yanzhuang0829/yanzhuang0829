@@ -1,6 +1,6 @@
 ### Hi, I'm Yan
 
-Business analytics student at Bentley University, focused on applying statistics and machine learning to real-world problems, from computer vision to regression and forecasting.
+Business Analytics professional with 2 years of experience, focused on applying statistics and machine learning to real-world problems, from computer vision to regression and forecasting. Bentley University, Class of 2026 (Business Analytics).
 
 What I work with: Python, R, SQL, TensorFlow/Keras, scikit-learn, pandas
 
