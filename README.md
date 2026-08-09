@@ -10,7 +10,7 @@ That experience showed me that analytics isn't just about reporting numbers—it
 
 
 
-What I work with: Python, R, SQL, TensorFlow/Keras, scikit-learn, pandas
+What I work with: Python, R, SQL, Tableau, Power BI, TensorFlow/Keras, scikit-learn, pandas
 
 A few projects:
 - [EyeSpy](https://github.com/yanzhuang0829/eyespy-glasses-detection)
