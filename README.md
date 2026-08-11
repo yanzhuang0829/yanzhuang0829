@@ -15,6 +15,6 @@ What I work with: Python, R, SQL, Tableau, Power BI, TensorFlow/Keras, scikit-le
 A few projects:
 - [EyeSpy](https://github.com/yanzhuang0829/eyespy-glasses-detection)
 - [Bank Marketing Classification](https://github.com/yanzhuang0829/bank-marketing-classification)
-- [Time Series Traffic Forecasting](https://github.com/yanzhuang0829/time-series-traffic-forecasting)
+- [Adidas Sales Tableau] (https://github.com/yanzhuang0829/Adidas-sales-tableau)
 
 Reach me at yzhuang@falcon.bentley.edu
